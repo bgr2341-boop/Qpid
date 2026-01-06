@@ -18,7 +18,7 @@ class AppConstants {
     ),
     3: LevelInfo(
       emoji: '⚖️',
-      title: '밸런스/만약에',
+      title: '우리 사이 케미는?',
       subtitle: '둘만의 케미를 확인하는 짜릿한 선택',
       description: '장난스러운 분위기 속에서 묘한 텐션 만들기',
     ),
